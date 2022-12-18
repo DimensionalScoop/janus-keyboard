@@ -25,6 +25,7 @@ After some messing around in Fusion 360, I drew everything in solvespace.
 - "Virtual War" XDA keycaps
 - PLA without added pigments
 - paracord, with the core removed to make room for wires
+- cyanacrylat glue to attach the paracord
 
 ## Finished Keyboard
 

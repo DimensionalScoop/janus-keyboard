@@ -2,7 +2,7 @@
 
 ![all-parts](https://user-images.githubusercontent.com/968721/208320703-229a5219-7e3a-4f14-ae44-1c38aacff423.png)
 
-A 40% keyboard designed by me!
+A 40% keyboard designed by me, built by me and you best hope not being used by you.
 
 ## Features
 
@@ -34,4 +34,4 @@ After some messing around in Fusion 360, I drew everything in solvespace.
 ![PXL_20221218_214904077](https://user-images.githubusercontent.com/968721/208320699-1c966050-52dd-4256-b6ad-8dd8c0a751db.jpg)
 ![PXL_20221218_214915239](https://user-images.githubusercontent.com/968721/208320701-3fa39ac6-0333-4ac9-a7b7-541936aa3f20.jpg)
 
-Do excuse my messy soldering, I'll be using a wiring pen next time ^_^'.
+Do excuse my messy soldering, I'll be using a wiring pen next time ^_^'
